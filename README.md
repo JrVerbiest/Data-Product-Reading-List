@@ -27,3 +27,6 @@
 - [PySpark](https://spark.apache.org/docs/latest/api/python/index.html#)
 - [Delta lake](https://delta.io/)
 - [Unity Catalog](https://www.unitycatalog.io/)
+
+---
+**Latest update: 26 February 2025**
