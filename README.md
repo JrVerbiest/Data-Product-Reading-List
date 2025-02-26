@@ -1,4 +1,3 @@
-# Data Product Reading List
 
 ## Books
 
