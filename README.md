@@ -23,6 +23,7 @@
 ## EHDS
 
 - [International Data Space Associated](https://internationaldataspaces.org/why/data-spaces/)
+- [The European Health Data Space: A new opportunity to solve your long-standing health data challenges](https://www.thoughtworks.com/insights/articles/the-european-health-data-space)
 
 ## Tech Stack
 
@@ -31,5 +32,9 @@
 - [Delta lake](https://delta.io/)
 - [Unity Catalog](https://www.unitycatalog.io/)
 
+## OMOP
+
+- [OMOP 5.31 with databricks](https://notebooks.databricks.com/notebooks/HLS/1-omop-cdm/index.html#1-omop-cdm_1.html)
+
 ---
-*Latest update: 27 February 2025*
+*Latest update: 23 March 2025*
