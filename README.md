@@ -3,8 +3,6 @@
 
 - [Data Mesh: Delivering Data-Driven Value at Scale](https://www.amazon.com/Data-Mesh-Delivering-Data-Driven-Value/dp/1492092398)
 - [Implementing Data Mesh: Design, Build, and Implement Data Contracts, Data Products, and Data Mesh](https://www.amazon.com/Implementing-Data-Mesh-Implement-Contracts/dp/1098156226/ref=sr_1_2?crid=2LNHODTL54EDL&dib=eyJ2IjoiMSJ9.PTnqYXf-FavvM2gWmOm001C4ban9V_cAtItCPuVX2T3lUeuXKOIlQxnod4RmpqYXsJDROR5-O8xtuIJYEGMRfeQVPo2SlTo7wyhV_vtKLUKMy-bRrmi29ThpwrCQ1FEipz0nzX_DD9VbzG7QoPHouZNkSGW9uQVf1aEaTT6PAhP6f-sIPl5O_BWJzeifXWvced92HgLwIV_forR7gi73CpSDkzF5E6f8qD0J8bql7DA.5L0MeoRhy-bYWGCND6zAh0LY8UfcmjMSkhX-mRsvKqE&dib_tag=se&keywords=data+mesh&qid=1740468942&s=books&sprefix=data+mesh%2Cstripbooks-intl-ship%2C213&sr=1-2)
-- [Data Mesh in Action](https://www.amazon.com/Data-Mesh-Action-Jacek-Majchrzak/dp/1633439976/ref=tmm_pap_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.PTnqYXf-FavvM2gWmOm001C4ban9V_cAtItCPuVX2T3lUeuXKOIlQxnod4RmpqYXsJDROR5-O8xtuIJYEGMRfeQVPo2SlTo7wyhV_vtKLUKMy-bRrmi29ThpwrCQ1FEipz0nzX_DD9VbzG7QoPHouZNkSGW9uQVf1aEaTT6PAhP6f-sIPl5O_BWJzeifXWvced92HgLwIV_forR7gi73CpSDkzF5E6f8qD0J8bql7DA.5L0MeoRhy-bYWGCND6zAh0LY8UfcmjMSkhX-mRsvKqE&qid=1740469029&sr=1-6)
-
 - [How to Move Beyond a Monolithic Data Lake to a Distributed Data Mesh](https://martinfowler.com/articles/data-monolith-to-mesh.html)
 - [Data Mesh Principles and Logical Architecture](https://martinfowler.com/articles/data-mesh-principles.html)
 - [Datamesh architecture](https://www.datamesh-architecture.com/)
@@ -37,4 +35,4 @@
 - [OMOP 5.31 with databricks](https://notebooks.databricks.com/notebooks/HLS/1-omop-cdm/index.html#1-omop-cdm_1.html)
 
 ---
-*Latest update: 23 March 2025*
+*Latest update: 29 March 2025*
