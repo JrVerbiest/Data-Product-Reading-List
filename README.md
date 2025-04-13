@@ -34,5 +34,10 @@
 
 - [OMOP 5.31 with databricks](https://notebooks.databricks.com/notebooks/HLS/1-omop-cdm/index.html#1-omop-cdm_1.html)
 
+## Data contracts
+
+- [Awesome Data Contracts](https://github.com/AltimateAI/awesome-data-contracts)
+- [Data Contracts Are Good for AI - Jean-Georges Perrin, Bitol / AbeaData](https://www.youtube.com/watch?v=kBVLGiTKDfE&list=PLRigaeCp4RxlRA0nmbqrT439qU64KdgBG)
+
 ---
-*Latest update: 29 March 2025*
+*Latest update: 3 April 2025*
