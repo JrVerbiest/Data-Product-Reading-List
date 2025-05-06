@@ -7,7 +7,6 @@
 - [Data Mesh Principles and Logical Architecture](https://martinfowler.com/articles/data-mesh-principles.html)
 - [Datamesh architecture](https://www.datamesh-architecture.com/)
 
-
 ## Data Products
 
 - [The Missing Piece to Democratize Data Is Not A Catalog](https://conveyordata.com/portal-the-missing-piece-for-data-democratization)
